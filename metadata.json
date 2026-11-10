@@ -2,5 +2,7 @@
   "name": "Smart Soil Analyzer",
   "description": "Portable AI and IoT-powered soil testing and crop-specific fertilizer recommendation system for farmers.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
